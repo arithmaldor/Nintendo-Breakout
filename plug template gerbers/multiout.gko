@@ -1,0 +1,35 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      OSH Park*
+G04 Layer:                BoardOutline*
+G04 This File Name:       multiout.gko*
+G04 Source File Name:     multiout.rrb*
+G04 Unique ID:            f070ccaf-7153-4cd8-b911-aa9a0e54cd1d*
+G04 Generated Date:       Monday, 19 February 2018 14:41:45*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBoardEdge*%
+%ADD10R,.007X.007*%
+D10*
+G01X0Y6299D02*
+X7480D01*
+Y0D01*
+X5512D01*
+Y687D01*
+X5939D01*
+Y3425D01*
+X1545D01*
+Y687D01*
+X1969D01*
+Y0D01*
+X0D01*
+Y6299D01*
+M02*

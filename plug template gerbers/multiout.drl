@@ -1,0 +1,32 @@
+M48
+;
+; Format:               Excellon NC Drill Ascii
+; Export Settings:      OSH Park
+; This File Name:       multiout.xln
+; Source File Name:     multiout.rrb
+; Unique ID:            f070ccaf-7153-4cd8-b911-aa9a0e54cd1d
+; Generated Date:       Monday, 19 February 2018 14:41:45
+;
+; Created Using:        Robot Room Copper Connection v3.0.5875
+; Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx
+; License Number:       1880
+;
+; Zero Suppression:     None
+; Number Precision:     2.4
+;
+FMAT,2
+INCH
+T01C.012
+%
+T01
+X000787Y000689
+X001047Y004232
+X000394Y005807
+X004264Y005906
+Y005413
+X005167Y004134
+X005865Y003740
+X007136Y005315
+Y005807
+X006644Y000738
+M30

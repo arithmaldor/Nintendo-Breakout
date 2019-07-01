@@ -1,0 +1,38 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      OSH Park*
+G04 Layer:                BottomSolderMask*
+G04 This File Name:       multiout.gbs*
+G04 Source File Name:     multiout.rrb*
+G04 Unique ID:            f070ccaf-7153-4cd8-b911-aa9a0e54cd1d*
+G04 Generated Date:       Monday, 19 February 2018 14:41:45*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+G04 Polarity:             Negative. Dark is solderable. Clear space is coating.*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBottomSolderMask*%
+%ADD10R,.007X.007*%
+%ADD11R,.085X.1313*%
+G36*
+G01X2894Y5118D02*
+X3632D01*
+Y4724D01*
+X2894D01*
+Y5118D01*
+G37*
+D11*
+X5264Y5652D03*
+X6264D03*
+X3264D03*
+X4264D03*
+X1264D03*
+X2264D03*
+M02*
