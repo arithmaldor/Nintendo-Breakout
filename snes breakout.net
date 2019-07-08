@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "D:\\Downloads\\Nintendo-Breakout\\snes breakout.sch")
-    (date "7/2/2019 1:37:42 PM")
+    (date "7/6/2019 12:57:36 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -73,7 +73,7 @@
       (tstamp 5D1BD94B))
     (comp (ref R1)
       (value 330)
-      (footprint Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder)
+      (footprint Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part R) (description Resistor))
       (sheetpath (names /) (tstamps /))
