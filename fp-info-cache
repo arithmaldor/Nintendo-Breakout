@@ -1,4 +1,4 @@
-16402664633326921
+16408925859217745
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72555,6 +72555,13 @@ Tinkerplunk
 8
 8
 Tinkerplunk
+262_U_DIN_MAB_8_SH
+
+
+0
+10
+9
+Tinkerplunk
 C&K_SP3T
 
 
@@ -72576,6 +72583,13 @@ CUI_MD-40SG
 7
 7
 Tinkerplunk
+CUI_MD-90SM
+
+
+0
+12
+11
+Tinkerplunk
 CUI_SJ1-3533NG
 
 
@@ -72590,12 +72604,26 @@ MALE_SCART
 21
 21
 Tinkerplunk
+NES_CONTROLLER_VERT
+
+
+0
+7
+7
+Tinkerplunk
 PSX_AV
 
 
 0
 12
 12
+Tinkerplunk
+SATURN_CONTROLLER_RA
+
+
+0
+9
+9
 Tinkerplunk
 SCART-F-RA
 TV SCART <B>CONNECTOR</B>
