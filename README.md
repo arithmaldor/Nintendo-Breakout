@@ -19,9 +19,9 @@ Plug in and go. There is a solder jumper to set the csync coming from the HD-15 
 This adapter can only break out signals that are already present. Unmodded SNES Jr. will only output composite, unmodded N64's will only ouput CVBS and S-video, same for Gamecube.
 A cool extra feature is that this breakout lets you easily output component YPbPr from the GCDual and N64Advanced mods.
 
-#PAL Systems
+# PAL Systems
 This was designed with NTSC systems in mind and is not compatible with PAL systems.
 
-#Parts
+# Parts
 Refer to BOM.csv for all components. For the support leg, use any appropriately long brass/metal m3 standoff/pillar and screw a rubber foot to the bottom. Solder a 5mm spring clamp to the bottom of the board to adjust the height.
 For a Gamecube with Gameboy Player, standoffs may need to be screwed into each other (stacked) to reach the needed height.
