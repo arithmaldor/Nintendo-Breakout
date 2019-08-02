@@ -1,0 +1,9 @@
+Reference,Value,Footprint,MPN,Datasheet,Link,Alt Link,Alt Link 2,Qty
+C1-C3,220uF,6.3x5.4mm,EEE0JA221WP,"https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/S_Series,Type_V_Rev2018.pdf",https://www.digikey.com/product-detail/en/panasonic-electronic-components/EEE-0JA221WP/PCE3858CT-ND/766234,https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_PANASONIC-EEE0JA221WP_C178494.html,,3
+J1,Nintendo Multiout Connector,,,,https://console5.com/store/nintendo-snes-super-famicom-n64-av-multi-out-plug-for-custom-rgb-cables-repair.html, , ,1
+J2,S-Video,Mini Din 4,"MD-40
+S, SG, SM or SGK",http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf,https://www.digikey.com/product-detail/en/cui-inc/MD-40SM/CP-2240-ND/96935,https://www.arrow.com/en/products/md-40sm/cui-inc, ,1
+J3,Headphone Jack,3 pin,SJ1-3533NG,https://www.cui.com/product/resource/digikeypdf/sj1-353xng.pdf,https://www.digikey.com/product-detail/en/cui-inc/SJ1-3533NG/CP1-3533NG-ND/738701,https://www.arrow.com/en/products/sj1-3533ng/cui-inc,https://lcsc.com/product-detail/Audio-Video-Connectors_Boom-Precision-Elec-3-5mmAudio-sockets-PJ325_C26230.html,1
+J4,DB15 Female High Density,DB15 HD Female,ICD15S13E6GV00LF,https://www.amphenol-icc.com/media/wysiwyg/files/drawing/c-cd-0012.pdf,https://www.digikey.com/product-detail/en/amphenol-icc-fci/ICD15S13E6GV00LF/609-2802-ND/1090326,https://www.arrow.com/en/products/icd15s13e6gv00lf/amphenol-fci,https://lcsc.com/product-detail/D-Sub-Connectors_VGA-002_C138387.html,1
+J5,3x2_RCA,"Stacked RCA 2 high 3 long. LR,TB: GBRYWR",RCA-628N1-14,,https://ebay.us/PmOF6q, ,,1
+R1,330 Ohm,Metric 0603,RC0603FR-07330RL,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf,https://www.digikey.com/product-detail/en/yageo/RC0603FR-07330RL/311-330HRCT-ND/730109,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_330R-330R-1_C105881.html,,1
